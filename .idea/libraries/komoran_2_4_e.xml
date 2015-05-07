@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="komoran-2.4-e">
+    <CLASSES>
+      <root url="jar://C:/lib/komoran-2.4-e.jar!/" />
+      <root url="jar://C:/lib/shineware-common-2.0.jar!/" />
+      <root url="jar://C:/lib/shineware-ds-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
