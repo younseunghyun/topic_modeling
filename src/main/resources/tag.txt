@@ -1,0 +1,3 @@
+NNP
+VA
+NNG
