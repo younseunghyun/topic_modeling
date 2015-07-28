@@ -1,0 +1,4 @@
+NNP
+NNP
+VA
+SL
